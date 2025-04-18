@@ -1,4 +1,1 @@
-# QR Code Reader
-
-
-
+#Scan QR
